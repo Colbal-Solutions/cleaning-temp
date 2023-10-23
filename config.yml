@@ -3,6 +3,23 @@ languageCode: en-us
 title: Cleaning Market Place Coming Soon!
 theme: hugo-PaperMod
 
+params:
+
+  homeInfoParams:
+    Title: "Cleaning Market Place"
+    Content: Your one-stop shop for cleaning tips, advice and finding local cleaning services near you!
+
+  cover:
+    LinkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+
+
 menu:
   main:
     - identifier: categories
