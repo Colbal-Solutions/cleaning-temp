@@ -5,6 +5,25 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Cleaning Market Place Coming Soon!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2023 11:33:18 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hair</title>
+      <link>/tags/hair/</link>
+      <pubDate>Mon, 23 Oct 2023 11:33:18 -0400</pubDate>
+      
+      <guid>/tags/hair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pets</title>
+      <link>/tags/pets/</link>
+      <pubDate>Mon, 23 Oct 2023 11:33:18 -0400</pubDate>
+      
+      <guid>/tags/pets/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

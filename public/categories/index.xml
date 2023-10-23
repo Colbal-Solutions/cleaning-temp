@@ -5,6 +5,16 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Cleaning Market Place Coming Soon!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2023 11:33:18 -0400</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pets</title>
+      <link>/categories/pets/</link>
+      <pubDate>Mon, 23 Oct 2023 11:33:18 -0400</pubDate>
+      
+      <guid>/categories/pets/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
