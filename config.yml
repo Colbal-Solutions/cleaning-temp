@@ -1,10 +1,9 @@
-baseURL: ""
+baseURL: "https://cleaning-marketplace.com"
 languageCode: en-us
 title: Cleaning Market Place!
 theme: hugo-PaperMod
 
 params:
-
   homeInfoParams:
     Title: "Cleaning Market Place"
     Content: Your one-stop shop for cleaning tips, advice and finding local cleaning services near you!
@@ -18,19 +17,17 @@ params:
 
   ShowShareButtons: true
 
-
-
 menu:
   main:
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 10 
+      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20 
+      weight: 20
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 30 
+      weight: 30
