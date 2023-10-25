@@ -1,5 +1,5 @@
 ---
-title: "Peturine"
+title: "Cleaning Pet Urine in Carpets"
 date: 2023-10-25T09:44:40-04:00
 draft: false
 tags: ["pets", "urine"]
