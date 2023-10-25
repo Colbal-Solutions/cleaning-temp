@@ -2,6 +2,8 @@
 title: "Peturine"
 date: 2023-10-25T09:44:40-04:00
 draft: true
+tags: ["pets", "urine"]
+categories: ["pets"]
 ---
 
 # How to Remove Dog Pee and Other Stains from Carpet — Without Harsh Chemicals
