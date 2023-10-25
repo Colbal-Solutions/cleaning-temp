@@ -1,6 +1,6 @@
 baseURL: "https://cleaning-marketplace.com"
 languageCode: en-us
-title: Cleaning Market Place!
+title: Cleaning Marketplace!
 theme: hugo-PaperMod
 
 params:
