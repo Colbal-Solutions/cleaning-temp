@@ -5,7 +5,7 @@ theme: hugo-PaperMod
 
 params:
   homeInfoParams:
-    Title: "Cleaning Market Place"
+    Title: "Cleaning Marketplace"
     Content: Your one-stop shop for cleaning tips, advice and finding local cleaning services near you!
 
   cover:
