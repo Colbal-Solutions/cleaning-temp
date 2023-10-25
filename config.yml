@@ -11,7 +11,7 @@ params:
   env: production
 
   cover:
-    linkFullImages: true
+    linkFullImages: false
 
   ShowBreadCrumbs: true
 
