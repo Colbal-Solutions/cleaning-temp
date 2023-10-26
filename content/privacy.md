@@ -154,184 +154,55 @@ We will use the information we receive only for the purposes that are described 
 
 **_In Short:_** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than  
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text"> the period of time in which users have an account with us  
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text"> .
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than  
+the period of time in which users have an account with us  
+.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
-style="color: rgb(89, 89, 89);">
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
- <div id="infosafe" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+### 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-### 8. HOW DO WE KEEP YOUR INFORMATION SAFE? \*\*
+**_In Short:_** _We aim to protect your personal information through a system of organizational and technical security measures._
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**\*In Short: \*\***We aim to protect your personal information through a system of organizational and technical security measures.\*
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
-style="color: rgb(89, 89, 89);">  
-style="color: rgb(89, 89, 89); font-size: 15px;">
-data-custom-class="body_text">
+### 9. DO WE COLLECT INFORMATION FROM MINORS?
 
- <div id="infominors" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+**_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
 
-### 9. DO WE COLLECT INFORMATION FROM MINORS? \*\*
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at contact-us@colbal.com .
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**\*In Short:\*\*** We do not knowingly collect data from or market to children under 18 years of age .\*
+### 10. WHAT ARE YOUR PRIVACY RIGHTS?
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at  
-style="color: rgb(89, 89, 89); font-size: 15px;">
-data-custom-class="body_text"> <bdt class="question">contact-us@colbal.com .  
-data-custom-class="body_text">
+**_In Short:_** _You may review, change, or terminate your account at any time._
 
- <div id="privacyrights" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+**<u>Withdrawing your consent:</u>** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE? below.
 
-### 10. WHAT ARE YOUR PRIVACY RIGHTS? \*\*
+> However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body*text">**\*In Short:\*\*** 
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">
-data-custom-class="body_text">\* *   You may review, change, or terminate your account at any time.\_
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;"><bdt class="block-component"><bdt class="block-component">
+**Account Information**
 
- <div id="withdrawconsent" style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**<u>Withdrawing your consent:</u>** If we are relying on your consent to process your personal information,  which may be express and/or implied consent depending on the applicable law,  you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section  "    <a data-custom-class="link" href="#contact"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">HOW CAN YOU CONTACT US ABOUT THIS NOTICE?   </a> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> "  below .     
-  However, please note that this will not affect the lawfulness of the processing before its withdrawal nor,  when applicable law allows,  will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.   <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
-   
-style="font-size: 15px;"> 
-data-custom-class="heading_2">**Account Information**    
-   
-   
-data-custom-class="body_text"> 
-style="font-size: 15px;">If you would at any time like to review or change the information in your account or terminate your account, you can:<bdt class="forloop-component">     
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"><bdt class="question">Log in to your account settings and update your user account.   </li></ul>  
-data-custom-class="body_text"> 
-style="font-size: 15px;"><bdt class="forloop-component">     
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.  <bdt class="statement-end-if-in-editor"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);">             
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**<u>Cookies and similar technologies:</u>** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services.  You may also  
-style="color: rgb(48, 48, 241);"> 
-data-custom-class="body_text"><a data-custom-class="link" href="http://www.aboutads.info/choices/" rel="noopener noreferrer" target="_blank"> 
-style="font-size: 15px;">opt out of interest-based advertising by advertisers </a>   on our Services.  
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">  
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);">             <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
-   
-data-custom-class="body_text"> 
-style="font-size: 15px;">If you have questions or comments about your privacy rights, you may email us at <bdt class="question">contact-us@colbal.com .  <bdt class="statement-end-if-in-editor"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
- <div id="DNT" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+If you would at any time like to review or change the information in your account or terminate your account, you can:
 
-### 11. CONTROLS FOR DO-NOT-TRACK FEATURES \*\*
+- Log in to your account settings and update your user account.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ( "DNT" ) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized . As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
 
- <div id="uslaws" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+**<u>Cookies and similar technologies:</u>** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. You may also opt out of interest-based advertising by advertisers on our Services.
 
-### 12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? \*\*
+If you have questions or comments about your privacy rights, you may email us at contact-us@colbal.com.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**\*In Short: \*\***If you are a resident of <bdt class="forloop-component"> <bdt class="forloop-component"> California<bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> , Colorado<bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component">, Connecticut <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component">, Utah <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> <bdt class="forloop-component"> or Virginia<bdt class="forloop-component"> <bdt class="forloop-component"> , you are granted specific rights regarding access to your personal information.\*
+### 11. CONTROLS FOR DO-NOT-TRACK FEATURES
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**What categories of personal information do we collect?**
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ( "DNT" ) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized . As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We have collected the following categories of personal information in the past twelve (12) months:
+### 12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+**_In Short:_** _If you are a resident of California, Colorado, Connecticut, Utah or Virginia, you are granted specific rights regarding access to your personal information._
+
+**What categories of personal information do we collect?**
+
+We have collected the following categories of personal information in the past twelve (12) months:
 
  <table style="width: 100%;"><tbody><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
@@ -561,121 +432,75 @@ data-custom-class="body_text">Participation in customer surveys or contests; and
 data-custom-class="body_text"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">              </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">           
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Facilitation in the delivery of our Services and to respond to your inquiries.  
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">              </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**How do we use and share your personal information?**     
-   
-   
-data-custom-class="body_text" style="font-size: 15px;">Learn about how we use your personal information in the section,  "  <a href="#infouse"> 
-data-custom-class="link" style="font-size: 15px;">HOW DO WE PROCESS YOUR INFORMATION? </a> 
-data-custom-class="body_text" style="font-size: 15px;"> " <bdt class="statement-end-if-in-editor"> 
-data-custom-class="body_text" style="font-size: 15px;">    
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">                       
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**Will your information be shared with anyone else?**     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section,  "    <a href="#whoshare"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="link">WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?   </a> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> "      
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be  "selling"  of your personal information. 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">        
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We 
-style="color: rgb(89, 89, 89);">  will not sell or share personal information in the future belonging to website visitors, users, and other consumers. 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">                                     
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-data-custom-class="body_text">         
-   
-  ** 
-data-custom-class="heading_2" style="font-size: 15px;">California Residents **  
-   
-   
-data-custom-class="body_text" style="font-size: 15px;">California Civil Code Section 1798.83, also known as the  "Shine The Light"  law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.   
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
-data-custom-class="body_text" style="font-size: 15px;">If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. ,  backups, etc.).   
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">**<u>CCPA Privacy Notice</u>**    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">The California Code of Regulations defines a  "residents"  as:    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
+data-custom-class="body_text">
+
+Facilitation in the delivery of our Services and to respond to your inquiries.  
+**How do we use and share your personal information?**
+
+Learn about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
+
+**Will your information be shared with anyone else?**
+
+style="font-size: 15px; color: rgb(89, 89, 89);">
+style="font-size: 15px; color: rgb(89, 89, 89);">
+data-custom-class="body_text">We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, " <a href="#whoshare">
+style="font-size: 15px; color: rgb(89, 89, 89);">
+style="font-size: 15px; color: rgb(89, 89, 89);">
+data-custom-class="link">WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION? </a>
+style="font-size: 15px; color: rgb(89, 89, 89);">
+style="font-size: 15px; color: rgb(89, 89, 89);">
+data-custom-class="body_text"> "
+
+style="font-size: 15px; color: rgb(89, 89, 89);">
+style="font-size: 15px; color: rgb(89, 89, 89);">
+data-custom-class="body_text">We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
+style="color: rgb(89, 89, 89); font-size: 15px;">
+data-custom-class="body_text">
+
+style="font-size: 15px; color: rgb(89, 89, 89);">
+style="font-size: 15px; color: rgb(89, 89, 89);">
+data-custom-class="body_text">We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We
+style="color: rgb(89, 89, 89);">  will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
+style="color: rgb(89, 89, 89);">
+data-custom-class="body_text">
+style="color: rgb(89, 89, 89);">
+data-custom-class="body_text">
+style="color: rgb(89, 89, 89);">
+data-custom-class="body_text">  
+data-custom-class="body_text">
+style="color: rgb(0, 0, 0);">
+data-custom-class="body_text">
+
+**
+data-custom-class="heading_2" style="font-size: 15px;">California Residents **
+
+data-custom-class="body_text" style="font-size: 15px;">California Civil Code Section 1798.83, also known as the "Shine The Light" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+style="font-size: 15px;">
+data-custom-class="body_text">
+
+data-custom-class="body_text" style="font-size: 15px;">If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. , backups, etc.).
+
+style="font-size: 15px;">
+
+style="font-size: 15px;">
+data-custom-class="body_text">**<u>CCPA Privacy Notice</u>**
+
+style="font-size: 15px;">
+data-custom-class="body_text">
+
+style="font-size: 15px;">
+data-custom-class="body_text">This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
+
+style="font-size: 15px;">
+data-custom-class="body_text">
+
+style="font-size: 15px;">
+data-custom-class="body_text">The California Code of Regulations defines a "residents" as:
+
+style="font-size: 15px;">
+data-custom-class="body_text">
+
  <div style="margin-left: 20px; line-height: 1.5;"> 
 style="font-size: 15px;"> 
 data-custom-class="body_text">(1) every individual who is in the State of California for other than a temporary or transitory purpose and    
