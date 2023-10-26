@@ -219,930 +219,211 @@ We have collected the following categories of personal information in the past t
 | K. Inferences drawn from collected personal information                       | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics                          | No            |
 | L. Sensitive personal Information                                             | Account login information, state id card numbers and drivers' licenses                                                                                                                                   | Yes           |
 
- </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">    
- </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">   
- </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
-data-custom-class="body_text">  NO <bdt class="block-component">    
-   
- </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">     
- </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">     
- </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
-data-custom-class="body_text">  NO <bdt class="block-component">    
-   
- </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">     
- </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">
- </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
-data-custom-class="body_text">  NO <bdt class="block-component">    
-   
- </td></tr><tr><td style="border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black; width: 33.8274%;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">    
- </td><td style="border-right: 1px solid black; border-top: 1px solid black; width: 51.4385%;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">    
- </td><td style="text-align: center; border-right: 1px solid black; border-top: 1px solid black; width: 14.9084%;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
-data-custom-class="body_text">  NO <bdt class="block-component">    
-   
- </td></tr><tr><td style="border-width: 1px; border-color: black; border-style: solid; width: 33.8274%;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">    
- </td><td style="border-bottom: 1px solid black; border-top: 1px solid black; border-right: 1px solid black; width: 51.4385%;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">    
- </td><td style="text-align: center; border-right: 1px solid black; border-bottom: 1px solid black; border-top: 1px solid black; width: 14.9084%;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"> 
-data-custom-class="body_text"> NO 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">           
-   
- </td></tr><tr><td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; line-height: 1.5;"> 
-data-custom-class="body_text">  </td><td style="border-right: 1px solid black; border-bottom: 1px solid black; line-height: 1.5;"><bdt class="block-component"> 
-data-custom-class="body_text">   
-data-custom-class="body_text"><bdt class="forloop-component">  <bdt class="question">Account login information   <bdt class="forloop-component">  , <bdt class="question">state id card numbers   <bdt class="forloop-component">   and <bdt class="question">drivers' licenses  <bdt class="forloop-component">  <bdt class="statement-end-if-in-editor"> 
-data-custom-class="body_text">  </td><td style="border-right: 1px solid black; border-bottom: 1px solid black;"><div data-empty="true" style="text-align: center;">   
- <div data-custom-class="body_text" data-empty="true" style="text-align: center; line-height: 1.5;"><bdt class="block-component"> 
-data-custom-class="body_text">   
-data-custom-class="body_text">YES     
- <div data-empty="true" style="text-align: center;">   
- </td></tr></tbody></table>  
-  <bdt class="block-component"> 
-data-custom-class="body_text">   
-data-custom-class="body_text">We will use and retain the collected personal information as needed to provide the Services or for:  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">Category B - <bdt class="question">As long as the user has an account with us   </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">Category  L   - <bdt class="question">As long as the user has an account with us   <bdt class="statement-end-if-in-editor"> 
-data-custom-class="body_text">  </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> Category  L   information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">      
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of: 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">           
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Receiving help through our customer support channels;  
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">              </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">           
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Participation in customer surveys or contests; and  
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">
+We will use and retain the collected personal information as needed to provide the Services or for:
 
-Facilitation in the delivery of our Services and to respond to your inquiries.  
+- Category B - As long as the user has an account with us
+
+- Category L - As long as the user has an account with us
+
+Category L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.
+
+We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
+
+- Receiving help through our customer support channels;
+- Participation in customer surveys or contests; and
+- Facilitation in the delivery of our Services and to respond to your inquiries.
+
 **How do we use and share your personal information?**
 
 Learn about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
 
 **Will your information be shared with anyone else?**
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, " <a href="#whoshare">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="link">WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION? </a>
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text"> "
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
-style="color: rgb(89, 89, 89); font-size: 15px;">
-data-custom-class="body_text">
+We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We
-style="color: rgb(89, 89, 89);">  will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text">  
-data-custom-class="body_text">
-style="color: rgb(0, 0, 0);">
-data-custom-class="body_text">
+We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
 
-**
-data-custom-class="heading_2" style="font-size: 15px;">California Residents **
+**California Residents**
 
-data-custom-class="body_text" style="font-size: 15px;">California Civil Code Section 1798.83, also known as the "Shine The Light" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+California Civil Code Section 1798.83, also known as the "Shine The Light" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
-style="font-size: 15px;">
-data-custom-class="body_text">
+If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. , backups, etc.).
 
-data-custom-class="body_text" style="font-size: 15px;">If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. , backups, etc.).
+**<u>CCPA Privacy Notice</u>**
 
-style="font-size: 15px;">
+This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
 
-style="font-size: 15px;">
-data-custom-class="body_text">**<u>CCPA Privacy Notice</u>**
+The California Code of Regulations defines a "residents" as:
 
-style="font-size: 15px;">
-data-custom-class="body_text">
+(1) every individual who is in the State of California for other than a temporary or transitory purpose and  
+(2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
 
-style="font-size: 15px;">
-data-custom-class="body_text">This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
+All other individuals are defined as "non-residents."
 
-style="font-size: 15px;">
-data-custom-class="body_text">
+If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
 
-style="font-size: 15px;">
-data-custom-class="body_text">The California Code of Regulations defines a "residents" as:
+**Your rights with respect to your personal data**
 
-style="font-size: 15px;">
-data-custom-class="body_text">
+<u>Right to request deletion of the data — Request to delete</u>
 
- <div style="margin-left: 20px; line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">(1) every individual who is in the State of California for other than a temporary or transitory purpose and    
- <div style="margin-left: 20px; line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">(2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">All other individuals are defined as  "non-residents."     
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">If this definition of  "resident"  applies to you, we must adhere to certain rights and obligations regarding your personal information.    
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**Your rights with respect to your personal data**     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"><u>Right to request deletion of the data — Request to delete</u>     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"><u>Right to be informed — Request to know</u>     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Depending on the circumstances, you have a right to know: 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">whether we collect and use your personal information; 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">          </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">the categories of personal information that we collect; 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">          </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">the purposes for which the collected personal information is used; 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">          </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">whether we sell or share personal information to third parties; 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">          </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">the categories of personal information that we sold, shared, or disclosed for a business purpose; 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">          </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose; 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">          </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">the business or commercial purpose for collecting, selling, or sharing personal information; and 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">          </li></ul> <bdt class="block-component"> 
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">the specific pieces of personal information we collected about you.  </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"><u>Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights</u>     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">We will not discriminate against you if you exercise your privacy rights.     
-   
-  <u> 
-data-custom-class="body_text">Right to Limit Use and Disclosure of Sensitive Personal Information </u>  
-  <bdt class="block-component"> 
-data-custom-class="body_text">    
-   
-data-custom-class="body_text">    
-   
-data-custom-class="body_text">If the business collects any of the following:    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">social security information, drivers' licenses, state ID cards, passport numbers  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">account login information  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">credit card numbers, financial account information, or credentials allowing access to such accounts  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">precise geolocation  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">racial or ethnic origin, religious or philosophical beliefs, union membership  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">the contents of email and text, unless the business is the intended recipient of the communication  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">genetic data, biometric data, and health data  </li></ul>  
-data-custom-class="body_text">    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">data concerning sexual orientation and sex life  </li></ul>  
-data-custom-class="body_text">you have the right to direct that business to limit its use of your sensitive personal information to that use which is necessary to perform the Services.   
-   
-data-custom-class="body_text">    
-   
-data-custom-class="body_text">Once a business receives your request, they are no longer allowed to use or disclose your sensitive personal information for any other purpose unless you provide consent for the use or disclosure of sensitive personal information for additional purposes.   
-   
-data-custom-class="body_text">    
-   
-data-custom-class="body_text">Please note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.   
-   
-   
-data-custom-class="body_text">To exercise your right to limit use and disclosure of sensitive personal information, please  email <bdt class="question">contact-us@colbal.com  or   visit: <bdt class="question"><a href="http://www.cleaning-marketplace.com/contact" target="_blank" data-custom-class="link">http://www.cleaning-marketplace.com/contact</a>   .   
-   
-data-custom-class="body_text">    
-   
-data-custom-class="body_text">     
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"><u>Verification process</u>     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g. ,  phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.     
-   
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"><u>Other privacy rights</u>     
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">You may object to the processing of your personal information. 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">             </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information. 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">             </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">You can designate an  authorized  agent to make a request under the CCPA on your behalf. We may deny a request from an  authorized  agent that does not submit proof that they have been validly  authorized  to act on your behalf in accordance with the CCPA. 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">             </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">              
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission. 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(0, 0, 0);"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">             </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;">    
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">To exercise these rights, you can contact us  by visiting <bdt class="question"><a href="http://www.cleaning-marketplace.com/contact" target="_blank" data-custom-class="link">http://www.cleaning-marketplace.com/contact</a> ,     
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text">    
-data-custom-class="body_text"> by visiting <bdt class="question"><a href="https://www.cleaning-marketplace.com/contact/" target="_blank" data-custom-class="link">https://www.cleaning-marketplace.com/contact/</a> ,  <bdt class="block-component"> 
-data-custom-class="body_text">              
-data-custom-class="body_text">or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.  
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"><bdt class="block-component"><bdt class="block-component">              
-  <bdt class="block-component"> 
-style="font-size: 15px;">    
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;">** 
-data-custom-class="heading_2">Colorado Residents **   
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.     
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to be informed whether or not we are processing your personal data   </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to access your personal data   </li></ul>    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to correct inaccuracies in your personal data   </li></ul>    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to request deletion of your personal data   </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to obtain a copy of the personal data you previously shared with us   </li></ul>    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ( "profiling" )   </li></ul><div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="block-component"> 
-data-custom-class="body_text">  
-style="font-size: 15px;">To submit a request to exercise  <bdt class="block-component" style="font-size: 15px;">  
-style="font-size: 15px;">these  <bdt class="statement-end-if-in-editor" style="font-size: 15px;">  
-style="font-size: 15px;">rights described above, please  email  <bdt class="question" style="font-size: 15px;">contact-us@colbal.com  
-style="font-size: 15px;"> or  <bdt class="block-component" style="font-size: 15px;">  
-style="font-size: 15px;">visit  <bdt class="question" style="font-size: 15px;"><a href="http://www.cleaning-marketplace.com/contact" target="_blank" data-custom-class="link">http://www.cleaning-marketplace.com/contact</a> <bdt class="else-block" style="font-size: 15px;">   
-style="font-size: 15px;"> 
-data-custom-class="body_text">.    
-  If we decline to take action regarding your request and you wish to appeal our decision, please email us at  <bdt class="question">contact-us@colbal.com   . Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.     
-     
-   
-  ** 
-style="font-size: 15px;"> 
-data-custom-class="heading_2">Connecticut Residents  **  
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.     
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to be informed whether or not we are processing your personal data   </li></ul>    
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text">Right to access your personal data  </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to correct inaccuracies in your personal data   </li></ul>    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to request deletion of your personal data   </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to obtain a copy of the personal data you previously shared with us   </li></ul>    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ( "profiling" )   </li></ul><div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text"> To submit a request to exercise  these  rights described above, please  email <bdt class="question">contact-us@colbal.com  or  visit <bdt class="question"><a href="http://www.cleaning-marketplace.com/contact" target="_blank" data-custom-class="link">http://www.cleaning-marketplace.com/contact</a>   .    
-   
- <div style="line-height: 1.4;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">If we decline to take action regarding your request and you wish to appeal our decision, please email us at  <bdt class="question">contact-us@colbal.com   . Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.   <bdt class="block-component"> 
-style="font-size: 15px;">    
- <div style="line-height: 1.4;"> 
-style="font-size: 15px;">    
- <div style="line-height: 1.4;"> 
-style="font-size: 15px;">** 
-data-custom-class="heading_2">Utah Residents **   
- <div style="line-height: 1.4;"> 
-style="font-size: 15px;">    
- <div style="line-height: 1.4;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">This section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.     
- <ul><li style="line-height: 1.4;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to be informed whether or not we are processing your personal data   </li></ul><div style="line-height: 1.4;"> 
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.4;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to access your personal data   </li></ul><div style="line-height: 1.4;"> 
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.4;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to request deletion of your personal data   </li></ul><div style="line-height: 1.4;"> 
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.4;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to obtain a copy of the personal data you previously shared with us   </li></ul><div style="line-height: 1.4;"> 
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.4;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data   </li></ul><div data-custom-class="body_text" style="line-height: 1.4;"> 
-style="font-size: 15px;"><bdt class="block-component"> 
-data-custom-class="body_text"> To submit a request to exercise  these  rights described above, please  email <bdt class="question">contact-us@colbal.com  or  visit <bdt class="question"><a href="http://www.cleaning-marketplace.com/contact" target="_blank" data-custom-class="link">http://www.cleaning-marketplace.com/contact</a>   .  <bdt class="statement-end-if-in-editor"> 
-style="font-size: 15px;">  <bdt class="block-component"> 
-style="font-size: 15px;">    
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;">** 
-data-custom-class="heading_2">Virginia Residents **   
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">Under the Virginia Consumer Data Protection Act (VCDPA):    
-   
-style="font-size: 15px;">    
- <div data-custom-class="body_text" style="line-height: 1.5;"> 
-style="font-size: 15px;"><bdt class="block-component"> 
-data-custom-class="body_text"> "Consumer"  means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context.    
-   
-style="font-size: 15px;">    
- <div data-custom-class="body_text" style="line-height: 1.5;"> 
-style="font-size: 15px;"><bdt class="block-component"> 
-data-custom-class="body_text"> "Personal data"  means any information that is linked or reasonably linkable to an identified or identifiable natural person.  "Personal data"  does not include de-identified data or publicly available information.    
-   
-style="font-size: 15px;">    
- <div data-custom-class="body_text" style="line-height: 1.5;"> 
-style="font-size: 15px;"><bdt class="block-component"> 
-data-custom-class="body_text"> "Sale of personal data"  means the exchange of personal data for monetary consideration.    
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">If this definition of  "consumer"  applies to you, we must adhere to certain rights and obligations regarding your personal data.    
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"><u> 
-data-custom-class="body_text">Your rights with respect to your personal data </u>   
-   
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to be informed whether or not we are processing your personal data   </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to access your personal data   </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to correct inaccuracies in your personal data   </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to request deletion of your personal data   </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to obtain a copy of the personal data you previously shared with us   </li></ul>  
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ( "profiling" )   </li></ul>  
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"><u> 
-data-custom-class="body_text">Exercise your rights provided under the Virginia VCDPA </u>   
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;">  
-data-custom-class="body_text">You may  contact us by email at <bdt class="question">contact-us@colbal.com  or  visit <bdt class="question"><a href="http://www.cleaning-marketplace.com/contact" target="_blank" data-custom-class="link">http://www.cleaning-marketplace.com/contact</a>   .    
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">If you are using an  authorized  agent to exercise your rights, we may deny a request if the  authorized  agent does not submit proof that they have been validly  authorized  to act on your behalf.    
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"><u> 
-data-custom-class="body_text">Verification process </u>   
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">We may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an  authorized  agent, we may need to collect additional information to verify your identity before processing your request.    
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.    
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"><u> 
-data-custom-class="body_text">Right to appeal </u>   
-   
-style="font-size: 15px;">    
-   
-style="font-size: 15px;"> 
-data-custom-class="body_text">If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at  <bdt class="question">contact-us@colbal.com   . Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the <a data-custom-class="link" href="https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint" rel="noopener noreferrer" target="_blank"> 
-data-custom-class="link">Attorney General to submit a complaint </a>.    
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"><bdt class="statement-end-if-in-editor"> 
-data-custom-class="body_text"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"><bdt class="statement-end-if-in-editor">                        <bdt class="block-component"> 
-style="font-size: 15px;">   <bdt class="block-component"> 
-style="font-size: 15px;">    
-   
- <div id="policyupdates" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
 
-### 13. DO WE MAKE UPDATES TO THIS NOTICE? \*\*
+<u>Right to be informed — Request to know</u>
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**\*In Short: **Yes, we will update this notice as necessary to stay compliant with relevant laws.\*
+Depending on the circumstances, you have a right to know:
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+- whether we collect and use your personal information;
+- the categories of personal information that we collect;
+- the purposes for which the collected personal information is used;
+- whether we sell or share personal information to third parties;
+- the categories of personal information that we sold, shared, or disclosed for a business purpose;
+- the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
+- the business or commercial purpose for collecting, selling, or sharing personal information; and
+- the specific pieces of personal information we collected about you.
 
- <div id="contact" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
 
-### 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE? \*\*
+<u>Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights</u>
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">If you have questions or comments about this notice, you may  
-style="color: rgb(89, 89, 89); font-size: 15px;">
-data-custom-class="body_text"><bdt class="block-component"> email us at <bdt class="question">contact-us@colbal.com or  <bdt class="statement-end-if-in-editor">  
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">contact us by post at:
+We will not discriminate against you if you exercise your privacy rights.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text"><bdt class="question">Colbal, LLC  
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text">
+<u>Right to Limit Use and Disclosure of Sensitive Personal Information </u>
+
+If the business collects any of the following:
+
+- social security information, drivers' licenses, state ID cards, passport numbers
+- account login information
+- credit card numbers, financial account information, or credentials allowing access to such accounts
+- precise geolocation
+- racial or ethnic origin, religious or philosophical beliefs, union membership
+- the contents of email and text, unless the business is the intended recipient of the communication
+- genetic data, biometric data, and health data
+- data concerning sexual orientation and sex life
+
+you have the right to direct that business to limit its use of your sensitive personal information to that use which is necessary to perform the Services.
+
+Once a business receives your request, they are no longer allowed to use or disclose your sensitive personal information for any other purpose unless you provide consent for the use or disclosure of sensitive personal information for additional purposes.
+
+Please note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.
+
+To exercise your right to limit use and disclosure of sensitive personal information, please email contact-us@colbal.com or visit:[http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact).
+
+<u>Verification process</u>
+
+Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g. , phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
+
+We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
+
+<u>Other privacy rights</u>
+
+- You may object to the processing of your personal information.
+- You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
+- You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
+- You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
+
+To exercise these rights, you can contact us by visiting [http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+
+**Colorado Residents**
+
+s
+This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ( "profiling" )
+
+To submit a request to exercise these rights described above, please email contact-us@colbal.com or  visit [http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact)
+
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at contact-us@colbal.com. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+
+**Connecticut Residents**
+
+This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ( "profiling" )
+
+To submit a request to exercise these rights described above, please email contact-us@colbal.com or visit ["http://www.cleaning-marketplace.com/contact"](http://www.cleaning-marketplace.com/contact).
+
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at <bdt class="question">contact-us@colbal.com . Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+
+**Utah Residents**
+
+This section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
+
+To submit a request to exercise these rights described above, please email contact-us@colbal.com or visit [http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact).
+
+**Virginia Residents**
+
+Under the Virginia Consumer Data Protection Act (VCDPA):
+
+"Consumer" means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context.
+
+"Personal data" means any information that is linked or reasonably linkable to an identified or identifiable natural person. "Personal data" does not include de-identified data or publicly available information.
+
+"Sale of personal data" means the exchange of personal data for monetary consideration.
+
+If this definition of "consumer" applies to you, we must adhere to certain rights and obligations regarding your personal data.
+
+<u>Your rights with respect to your personal data </u>
 
 style="font-size: 15px;">
-data-custom-class="body_text"><bdt class="question">1583 Paule Ave
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">
 
-style="font-size: 15px;">
-data-custom-class="body_text"><bdt class="question">Manchester
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;"> , <bdt class="question">NH <bdt class="question">03104
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ( "profiling" )
 
-data-custom-class="body_text" style="font-size: 15px;"><bdt class="question">United States
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;"> <bdt class="block-component">
-style="font-size: 15px;">
-data-custom-class="body_text">  
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">  
-data-custom-class="body_text">
-style="font-size: 15px;">
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89);"><bdt class="statement-end-if-in-editor">
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">
-data-custom-class="body_text"><bdt class="block-component"> <bdt class="block-component">
-style="font-size: 15px;">  
-style="font-size: 15px;">
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="font-size: 15px;">
-data-custom-class="body_text"><bdt class="statement-end-if-in-editor">
+<u>Exercise your rights provided under the Virginia VCDPA </u>
 
- <div id="request" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+You may contact us by email at contact-us@colbal.com or visit ["http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact).
 
-### <a name="15-how-can-you-review-update-or-delete-the-data-we-collect-from-you"></a>15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? \*\*
+If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text"> Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact)
+<u>Verification process </u>
+
+We may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request.
+
+Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.
+
+<u>Right to appeal </u>
+
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at contact-us@colbal.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
+
+### 13. DO WE MAKE UPDATES TO THIS NOTICE?
+
+**_In Short:_** _Yes, we will update this notice as necessary to stay compliant with relevant laws._
+
+We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+### 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+If you have questions or comments about this notice, you may email us at contact-us@colbal.com or contact us by post at:
+
+Colbal, LLC  
+1583 Paule Ave  
+Manchester NH 03104  
+United States
+
+### 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact)
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/) .
