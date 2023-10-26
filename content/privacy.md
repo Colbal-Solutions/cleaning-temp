@@ -79,7 +79,7 @@ data-custom-class="body_text">
 
 Want to learn more about what we do with any information we collect? [Review the privacy policy in full](#table-of-contents)
 
-### **TABLE OF CONTENTS**
+### **Contents of policy**
 
 1. [WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
 
