@@ -8,6 +8,8 @@ params:
     Title: "Cleaning Marketplace"
     Content: Your one-stop shop for cleaning tips, advice and finding local cleaning services near you!
 
+  privacy: https://cleaning-marketplace.com/privacy/
+
   env: production
 
   cover:

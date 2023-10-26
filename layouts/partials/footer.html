@@ -5,6 +5,13 @@
     {{- else }}
     <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
+    <!-- added privacy policy -->
+    {{- if site.Param "privacy" }}
+    <span>
+        <a href="{{ site.Param "privacy" }}">Privacy Policy</a>
+    </span>
+    {{- end }}
+    <!-- end of privacy policy-->
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
