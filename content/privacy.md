@@ -204,53 +204,29 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
 We have collected the following categories of personal information in the past twelve (12) months:
 
- <table style="width: 100%;"><tbody><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;"> 
+| **Category**                                                                  | **Examples**                                                                                                                                                                                             | **Collected** |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| A. Identifiers                                                                | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | No            |
+| B. Personal information as defined in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information                                                                                                          | No            |
+| C. Protected classification characteristics under state or federal law        | Gender and date of birth                                                                                                                                                                                 | No            |
+| D. Commercial information                                                     | Transaction information, purchase history, financial details, and payment information                                                                                                                    | No            |
+| E. Biometric information                                                      | Fingerprints and voiceprints                                                                                                                                                                             | No            |
+| F. Internet or other similar network activity                                 | Browsing history, search history, online behavior , interest data, and interactions with our and other websites, applications, systems, and advertisements                                               | No            |
+| G. Geolocation data                                                           | Device location                                                                                                                                                                                          | No            |
+| H. Audio, electronic, visual, thermal, olfactory, or similar information      | Images and audio, video or call recordings created in connection with our business activities                                                                                                            | No            |
+| I. Professional or employment-related information                             | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us                             | No            |
+| J. Education Information                                                      | Student records and directory information                                                                                                                                                                | No            |
+| K. Inferences drawn from collected personal information                       | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics                          | No            |
+| L. Sensitive personal Information                                             | Account login information, state id card numbers and drivers' licenses                                                                                                                                   | Yes           |
+
+ </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**Category**   </td><td style="width: 51.4385%; border-top: 1px solid black; border-right: 1px solid black;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**Examples**   </td><td style="width: 14.9084%; border-right: 1px solid black; border-top: 1px solid black; text-align: center;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**Collected**   </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">A. Identifiers     
- </td><td style="width: 51.4385%; border-top: 1px solid black; border-right: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name     
- </td><td style="width: 14.9084%; text-align: center; vertical-align: middle; border-right: 1px solid black; border-top: 1px solid black;">  
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"><bdt class="block-component">  NO<bdt class="statement-end-if-in-editor">      
-   
- </td></tr></tbody></table>    
- <table style="width: 100%;"><tbody><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">B. Personal information as defined in the California Customer Records statute     
+data-custom-class="body_text">    
  </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Name, contact information, education, employment, employment history, and financial information     
- </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
-   
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"><bdt class="forloop-component"><bdt class="block-component"><bdt class="block-component">NO<bdt class="statement-end-if-in-editor">       
-   
- </td></tr></tbody></table>    
- <table style="width: 100%;"><tbody><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> C  . Protected classification characteristics under state or federal law     
- </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Gender and date of birth     
+data-custom-class="body_text">   
  </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
  <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
 data-custom-class="body_text">  NO <bdt class="block-component">    
@@ -258,35 +234,11 @@ data-custom-class="body_text">  NO <bdt class="block-component">
  </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> D  . Commercial information     
+data-custom-class="body_text">     
  </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Transaction information, purchase history, financial details, and payment information     
- </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
-data-custom-class="body_text">  NO<bdt class="statement-end-if-in-editor"><bdt class="block-component">    
-   
- </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> E  . Biometric information     
- </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Fingerprints and voiceprints     
- </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
-data-custom-class="body_text"><bdt class="block-component"><bdt class="block-component">NO  <bdt class="block-component">    
-   
- </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> F  . Internet or other similar network activity     
- </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Browsing history, search history, online  behavior , interest data, and interactions with our and other websites, applications, systems, and advertisements     
+data-custom-class="body_text">     
  </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
  <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
 data-custom-class="body_text">  NO <bdt class="block-component">    
@@ -294,35 +246,11 @@ data-custom-class="body_text">  NO <bdt class="block-component">
  </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> G  . Geolocation data     
+data-custom-class="body_text">     
  </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Device location     
- </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
-data-custom-class="body_text">  NO <bdt class="block-component">    
-   
- </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> H  . Audio, electronic, visual, thermal, olfactory, or similar information     
- </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Images and audio, video or call recordings created in connection with our business activities     
- </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
- <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
-data-custom-class="body_text">  NO <bdt class="block-component">    
-   
- </td></tr><tr><td style="width: 33.8274%; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> I  . Professional or employment-related information     
- </td><td style="width: 51.4385%; border-right: 1px solid black; border-top: 1px solid black;">  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us     
+data-custom-class="body_text">
  </td><td style="width: 14.9084%; text-align: center; border-right: 1px solid black; border-top: 1px solid black;">  
  <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
 data-custom-class="body_text">  NO <bdt class="block-component">    
@@ -330,11 +258,11 @@ data-custom-class="body_text">  NO <bdt class="block-component">
  </td></tr><tr><td style="border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black; width: 33.8274%;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> J  . Education Information     
+data-custom-class="body_text">    
  </td><td style="border-right: 1px solid black; border-top: 1px solid black; width: 51.4385%;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Student records and directory information     
+data-custom-class="body_text">    
  </td><td style="text-align: center; border-right: 1px solid black; border-top: 1px solid black; width: 14.9084%;">  
  <div data-custom-class="body_text" style="line-height: 1.5;"><bdt class="forloop-component"> 
 data-custom-class="body_text">  NO <bdt class="block-component">    
@@ -342,11 +270,11 @@ data-custom-class="body_text">  NO <bdt class="block-component">
  </td></tr><tr><td style="border-width: 1px; border-color: black; border-style: solid; width: 33.8274%;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> K  . Inferences drawn from collected personal information     
+data-custom-class="body_text">    
  </td><td style="border-bottom: 1px solid black; border-top: 1px solid black; border-right: 1px solid black; width: 51.4385%;">  
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
 style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics     
+data-custom-class="body_text">    
  </td><td style="text-align: center; border-right: 1px solid black; border-bottom: 1px solid black; border-top: 1px solid black; width: 14.9084%;">  
  <div data-custom-class="body_text" style="line-height: 1.5;"> 
 data-custom-class="body_text"> NO 
@@ -357,7 +285,7 @@ style="color: rgb(89, 89, 89);">
 data-custom-class="body_text">           
    
  </td></tr><tr><td style="border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black; line-height: 1.5;"> 
-data-custom-class="body_text"> L  . Sensitive personal Information </td><td style="border-right: 1px solid black; border-bottom: 1px solid black; line-height: 1.5;"><bdt class="block-component"> 
+data-custom-class="body_text">  </td><td style="border-right: 1px solid black; border-bottom: 1px solid black; line-height: 1.5;"><bdt class="block-component"> 
 data-custom-class="body_text">   
 data-custom-class="body_text"><bdt class="forloop-component">  <bdt class="question">Account login information   <bdt class="forloop-component">  , <bdt class="question">state id card numbers   <bdt class="forloop-component">   and <bdt class="question">drivers' licenses  <bdt class="forloop-component">  <bdt class="statement-end-if-in-editor"> 
 data-custom-class="body_text">  </td><td style="border-right: 1px solid black; border-bottom: 1px solid black;"><div data-empty="true" style="text-align: center;">   
