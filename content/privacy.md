@@ -81,21 +81,7 @@ We collect personal information that you voluntarily provide to us when you regi
 
 **Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, Google or other social media account. If you choose to register in this way, we will collect the information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">
-style="font-size: 15px;"><bdt class="statement-end-if-in-editor"> <bdt class="block-component">
-
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
-
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">
-
-data-custom-class="heading_2" style="color: rgb(0, 0, 0);">
-style="font-size: 15px;">
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
 **Information automatically collected**
 
@@ -103,239 +89,46 @@ style="font-size: 15px;">
 
 We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">
+Like many businesses, we also collect information through cookies and similar technologies.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">Like many businesses, we also collect information through cookies and similar technologies.
+The information we collect includes:
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text"><bdt class="statement-end-if-in-editor">
-data-custom-class="body_text">  
-data-custom-class="body_text">
+- _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps" ), and hardware settings).
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">The information we collect includes:
+- _Device Data._ We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">*Log and Usage Data.* Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services 
-style="font-size: 15px;">  (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called  "crash dumps" ), and hardware settings). 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);">         </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">*Device Data.* We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information. 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);">         </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">*Location Data.* We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services. 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);">         </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;">      
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-data-custom-class="body_text"><bdt class="statement-end-if-in-editor">                
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
- <div id="infouse" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+- _Location Data._ We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
-### 2. HOW DO WE PROCESS YOUR INFORMATION? \*\*
+### 2. HOW DO WE PROCESS YOUR INFORMATION?
 
-style="color: rgb(127, 127, 127);">
-style="color: rgb(89, 89, 89); font-size: 15px;">
-data-custom-class="body_text">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**\*In Short: \*\***We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.\*
+**_In Short:_** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
+**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
 
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**To facilitate account creation and authentication and otherwise manage user accounts. **We may process your information so you can create and log in to your account, as well as keep your account in working order. 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">             </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">                </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">                      </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">      
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**To respond to user inquiries/offer support to users. **We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service. 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">             </li></ul>  
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">    </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;">    
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**To send administrative information to you. **We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information. 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">       </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;">          </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;">             </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul><p style="font-size: 15px; line-height: 1.5;"><bdt class="block-component"> 
-style="font-size: 15px;">  </p><ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-style="color: rgb(89, 89, 89);"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">**To enable user-to-user communications. **We may process your information if you choose to use any of our offerings that allow for communication with another user. 
-style="color: rgb(89, 89, 89);"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text"> 
-style="color: rgb(89, 89, 89);"> 
-data-custom-class="body_text">            </li></ul><p style="font-size: 15px; line-height: 1.5;"><bdt class="block-component"> 
-style="font-size: 15px;">            </li></ul><p style="font-size: 15px; line-height: 1.5;">            </li></ul><p style="font-size: 15px; line-height: 1.5;">            </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;">    </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;">    </li></ul>  
-style="font-size: 15px;"><bdt class="block-component"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;">**To evaluate and improve our Services, products, marketing, and your experience.** We may process your information when we believe it is necessary to identify usage trends, determine the effectiveness of our promotional campaigns, and to evaluate and improve our Services, products, marketing, and your experience.  <bdt class="statement-end-if-in-editor"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">**To determine the effectiveness of our marketing and promotional campaigns.** We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">**To comply with our legal obligations.** We may process your information to comply with our legal obligations, respond to legal requests, and exercise, establish, or defend our legal rights.   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
-   
- <div id="whoshare" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+- **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you - **To respond to user inquiries/offer support to users.** We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
 
-### 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION? \*\*
+- **To send administrative information to you.** We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**\*In Short:\*\*** We may share information in specific situations described in this section and/or with the following third parties.\*
+- **To enable user-to-user communications.** We may process your information if you choose to use any of our offerings that allow for communication with another user.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text"><bdt class="block-component">  
- We may need to share your personal information in the following situations:
+- **To evaluate and improve our Services, products, marketing, and your experience.** We may process your information when we believe it is necessary to identify usage trends, determine the effectiveness of our promotional campaigns, and to evaluate and improve our Services, products, marketing, and your experience.
 
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">**Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.  </li></ul>  
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
- <ul><li style="line-height: 1.5;"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">**When we use Google Maps Platform APIs.** We may share your information with certain Google Maps Platform APIs (e.g. ,  Google Maps API, Places API).  
-data-custom-class="body_text">   We obtain and store on your device ( "cache" ) your location . You may revoke your consent anytime by contacting us at the contact details provided at the end of this document.    </li></ul>  
-style="font-size: 15px;"><bdt class="block-component"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">     
- <ul><li style="line-height: 1.5;"> 
-data-custom-class="body_text"> 
-style="font-size: 15px;">**Business Partners.** We may share your information with our business partners to offer you certain products, services, or promotions.  <bdt class="statement-end-if-in-editor"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">   </li></ul> <bdt class="block-component"> 
-style="font-size: 15px;"> 
-data-custom-class="body_text">
+- **To determine the effectiveness of our marketing and promotional campaigns.** We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.
+
+- **To comply with our legal obligations.** We may process your information to comply with our legal obligations, respond to legal requests, and exercise, establish, or defend our legal rights.
+
+### 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+
+**_In Short:_** _We may share information in specific situations described in this section and/or with the following third parties._
+
+We may need to share your personal information in the following situations:
+
+**Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+**When we use Google Maps Platform APIs.** We may share your information with certain Google Maps Platform APIs (e.g. , Google Maps API, Places API).  
+data-custom-class="body_text"> We obtain and store on your device ( "cache" ) your location . You may revoke your consent anytime by contacting us at the contact details provided at the end of this document.
+
+**Business Partners.** We may share your information with our business partners to offer you certain products, services, or promotions.
 
 ### 4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
@@ -343,87 +136,23 @@ data-custom-class="body_text">
 
 The Services may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
 
- <div id="cookies" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
-
 ### 5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
 **_In Short:_** *We may use cookies and other tracking technologies to collect and store your information.*
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice
-style="color: rgb(89, 89, 89); font-size: 15px;">
-data-custom-class="body_text"> .  
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text">  
-data-custom-class="body_text">
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text">
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
- <div id="sociallogins" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
+### 6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 
-### 6. HOW DO WE HANDLE YOUR SOCIAL LOGINS? \*\*
+**_In Short:_** _If you choose to register or log in to our Services using a social media account, we may have access to certain information about you._
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**\*In Short: \*\***If you choose to register or log in to our Services using a social media account, we may have access to certain information about you.\*
+Our Services offer you the ability to register and log in using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, and profile picture, as well as other information you choose to make public on such a social media platform.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">Our Services offer you the ability to register and log in using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, and profile picture, as well as other information you choose to make public on such a social media platform.  
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text">
+We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps.
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="color: rgb(89, 89, 89); font-size: 15px;">
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-style="font-size: 15px;">
-style="color: rgb(89, 89, 89);">
-data-custom-class="body_text"> <bdt class="block-component">
-data-custom-class="body_text">
+### 7. HOW LONG DO WE KEEP YOUR INFORMATION?
 
- <div id="inforetain" style="line-height: 1.5;"> 
-style="color: rgb(127, 127, 127);"> 
-style="color: rgb(89, 89, 89); font-size: 15px;"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-style="font-size: 15px; color: rgb(89, 89, 89);"> 
-id="control" style="color: rgb(0, 0, 0);">** 
-data-custom-class="heading_1">
-
-### 7. HOW LONG DO WE KEEP YOUR INFORMATION? \*\*
-
-style="font-size: 15px; color: rgb(89, 89, 89);">
-style="font-size: 15px; color: rgb(89, 89, 89);">
-data-custom-class="body_text">**\*In Short: \*\***We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.\*
+**_In Short:_** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
 
 style="font-size: 15px; color: rgb(89, 89, 89);">
 style="font-size: 15px; color: rgb(89, 89, 89);">
