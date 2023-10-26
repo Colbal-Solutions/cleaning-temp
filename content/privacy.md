@@ -1984,7 +1984,7 @@ style="font-size: 15px; color: rgb(89, 89, 89);">
 id="control" style="color: rgb(0, 0, 0);">** 
 data-custom-class="heading_1">
 
-### 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? \*\* </div>
+### <a name="15-how-can-you-review-update-or-delete-the-data-we-collect-from-you"></a>15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? \*\* </div>
 
  <div style="line-height: 1.5;"><br></div> 
  <div style="line-height: 1.5;"> 
