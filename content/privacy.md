@@ -35,7 +35,7 @@ This privacy notice for Colbal, LLC ("**we**", "**us**," or "**our**"), describe
 
 Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#contents-of-policy)
 
-### Contents of policy
+### CONTENTS OF POLICY
 
 ```
 1. WHAT INFORMATION DO WE COLLECT?
