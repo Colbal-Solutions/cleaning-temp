@@ -11,7 +11,7 @@ This privacy notice for Colbal, LLC ("**we**", "**us**," or "**our**"), describe
 - Visit our website at [https://cleaning-marketplace.com/](https://cleaning-marketplace.com), or any website of ours that links to this privacy notice
 - Engage with us in other related ways, including any sales, marketing, or events
 
-  **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services.<bdt class="block-component"></bdt> If you still have any questions or concerns, please contact us at contact-us@colbal.com
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services.<bdt class="block-component"></bdt> If you still have any questions or concerns, please contact us at contact-us@colbal.com
 
 ### **SUMMARY OF KEY POINTS**
 
@@ -77,39 +77,39 @@ data-custom-class="body_text">
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by visiting [http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact) or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Want to learn more about what we do with any information we collect? [Review the privacy policy in full](#table-of-contents)
+Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#table-of-contents)
 
 ### **Contents of policy**
 
-1. [WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
+1. WHAT INFORMATION DO WE COLLECT?
 
-2. [HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
+2. HOW DO WE PROCESS YOUR INFORMATION?
 
-3. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#3-when-and-with-whom-do-we-share-your-personal-information)
+3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
-4. [WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#4-what-is-our-stance-on-third-party-websites)
+4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
-5. [DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#5-do-we-use-cookies-and-other-tracking-technologies)
+5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
-6. [HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#6-how-do-we-handle-your-social-logins)
+6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 
-7. [HOW LONG DO WE KEEP YOUR INFORMATION?](#7-how-long-do-we-keep-your-information)
+7. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-8. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#8-how-do-we-keep-your-information-safe)
+8. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-9. [DO WE COLLECT INFORMATION FROM MINORS?](#9-do-we-collect-information-from-minors)
+9. DO WE COLLECT INFORMATION FROM MINORS?
 
-10. [WHAT ARE YOUR PRIVACY RIGHTS?](#10-what-are-your-privacy-rights)
+10. WHAT ARE YOUR PRIVACY RIGHTS?
 
-11. [CONTROLS FOR DO-NOT-TRACK FEATURES](#11-controls-for-do-not-track-features)
+11. CONTROLS FOR DO-NOT-TRACK FEATURES
 
-12. [DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#12-do-united-states-residents-have-specific-privacy-rights)
+12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-13. [DO WE MAKE UPDATES TO THIS NOTICE?](#13-do-we-make-updates-to-this-notice)
+13. DO WE MAKE UPDATES TO THIS NOTICE?
 
-14. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#14-how-can-you-contact-us-about-this-notice)
+14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-15. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#15-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
+15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 ### 1. WHAT INFORMATION DO WE COLLECT? <a name="what information do we collect"></a>
 
