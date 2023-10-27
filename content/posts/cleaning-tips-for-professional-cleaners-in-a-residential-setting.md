@@ -13,6 +13,8 @@ ShowToc: true
 
 As a professional cleaner, working in a residential setting can present its fair share of challenges, from effectively managing time to tackling stubborn stains. However, with the right approach and some handy tips, you can enhance your efficiency and ensure a spotless result every time. 
 
+## Key tips as a professional
+
 To start, always start by decluttering the space before diving into the actual cleaning. This not only helps create a more organized environment but also allows for a thorough clean. Additionally, it's crucial to establish a routine and prioritize tasks systematically, focusing on one room or area at a time, top to bottom in a clockwise manner. This methodology ensures that no area is missed or overlooked. Furthermore, invest in quality cleaning tools and products specifically tailored for residential settings as they can significantly enhance your performance. Finally, pay attention to detail and don't be afraid to go the extra mile to ensure customer satisfaction. By incorporating these tips into your cleaning routine, you can excel as a professional cleaner, delivering exceptional results in a residential setting.
 
 1. Tips for Decluttering a Space
