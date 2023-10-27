@@ -8,6 +8,7 @@ cover:
     caption: "Puppers!"
 tags: ["pets", "hair"]
 categories: ["pets"]
+ShowToc: true
 ---
 
 # Remove Pet Hair with Rubber Gloves

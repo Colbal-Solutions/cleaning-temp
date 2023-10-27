@@ -13,7 +13,7 @@ params:
   env: production
 
   label:
-    icon: "img/logo.png"
+    icon: "img/logo.svg"
 
   cover:
     linkFullImages: false
