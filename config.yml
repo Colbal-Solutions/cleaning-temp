@@ -2,6 +2,7 @@ baseURL: "https://cleaning-marketplace.com"
 languageCode: en-us
 title: Cleaning Marketplace!
 theme: hugo-PaperMod
+env: production
 
 params:
   homeInfoParams:
@@ -10,7 +11,7 @@ params:
 
   privacy: https://cleaning-marketplace.com/privacy/
 
-  env: production
+  
 
   label:
     icon: "img/logo.svg"
