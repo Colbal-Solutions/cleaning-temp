@@ -380,7 +380,7 @@ If this definition of "consumer" applies to you, we must adhere to certain right
 
 <u>Your rights with respect to your personal data </u>
 
-style="font-size: 15px;">
+<style="font-size: 15px;">
 
 - Right to be informed whether or not we are processing your personal data
 - Right to access your personal data
