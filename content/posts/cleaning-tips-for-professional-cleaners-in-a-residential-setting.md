@@ -1,5 +1,6 @@
 ---
 title: "Cleaning Tips for Professional Cleaners in a Residential Setting"
+date: 2023-10-27T11:33:18-04:00
 draft: false
 cover:
     image: img/cleaningprod.webp
