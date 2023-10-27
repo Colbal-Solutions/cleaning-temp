@@ -389,7 +389,7 @@ If this definition of "consumer" applies to you, we must adhere to certain right
 
 <u>Exercise your rights provided under the Virginia VCDPA </u>
 
-You may contact us by email at contact-us@colbal.com or visit ["http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact).
+You may contact us by email at contact-us@colbal.com or visit [http://www.cleaning-marketplace.com/contact](http://www.cleaning-marketplace.com/contact).
 
 If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
