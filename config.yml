@@ -2,12 +2,13 @@ baseURL: "https://cleaning-marketplace.com"
 languageCode: en-us
 title: Cleaning Marketplace!
 theme: hugo-PaperMod
+description: Cleaning marketplace is a one-stop shop for customers and professional cleaners to connect and find helpful cleaning tips, tricks, life hacks and solutions.
 env: production
 
 params:
   homeInfoParams:
     Title: "Cleaning Marketplace"
-    Content: Your one-stop shop for cleaning tips, advice and finding local cleaning services near you!
+    Content: Cleaning marketplace is a one-stop shop for customers and professional cleaners to connect and find helpful cleaning tips, tricks, life hacks and solutions.
 
   privacy: https://cleaning-marketplace.com/privacy/
 
