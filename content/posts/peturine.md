@@ -4,7 +4,7 @@ date: 2023-10-25T09:44:40-04:00
 draft: false
 cover:
     image: img/peturine.webp
-    alt: "Pet Photo"
+    alt: "Pet Urine"
     caption: "Image by Freepik"
 tags: ["pets", "urine"]
 categories: ["pets"]
