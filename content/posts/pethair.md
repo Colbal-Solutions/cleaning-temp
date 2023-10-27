@@ -3,7 +3,7 @@ title: "Cleaning Pet Hair"
 date: 2023-10-23T11:33:18-04:00
 draft: false
 cover:
-    image: img/pets.jpg
+    image: img/pets.webp
     alt: "Pet Photo"
     caption: "Puppers!"
 tags: ["pets", "hair"]
