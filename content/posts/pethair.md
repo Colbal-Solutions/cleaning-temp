@@ -5,7 +5,7 @@ draft: false
 cover:
     image: img/pets.webp
     alt: "Pet Photo"
-    caption: "Puppers!"
+    caption: "Image by Freepik"
 tags: ["pets", "hair"]
 categories: ["pets"]
 ShowToc: true
