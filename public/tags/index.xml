@@ -1,27 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Cleaning Market Place Coming Soon!</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Cleaning Market Place Coming Soon!</description>
+    <title>Tags on Cleaning Marketplace!</title>
+    <link>https://cleaning-marketplace.com/tags/</link>
+    <description>Recent content in Tags on Cleaning Marketplace!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Oct 2023 11:33:18 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 12:55:48 -0400</lastBuildDate><atom:link href="https://cleaning-marketplace.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hair</title>
-      <link>/tags/hair/</link>
-      <pubDate>Mon, 23 Oct 2023 11:33:18 -0400</pubDate>
+      <title>Bathroom</title>
+      <link>https://cleaning-marketplace.com/tags/bathroom/</link>
+      <pubDate>Mon, 30 Oct 2023 12:55:48 -0400</pubDate>
       
-      <guid>/tags/hair/</guid>
+      <guid>https://cleaning-marketplace.com/tags/bathroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home Cleaning</title>
+      <link>https://cleaning-marketplace.com/tags/home-cleaning/</link>
+      <pubDate>Mon, 30 Oct 2023 12:55:48 -0400</pubDate>
+      
+      <guid>https://cleaning-marketplace.com/tags/home-cleaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residential</title>
+      <link>https://cleaning-marketplace.com/tags/residential/</link>
+      <pubDate>Mon, 30 Oct 2023 12:55:48 -0400</pubDate>
+      
+      <guid>https://cleaning-marketplace.com/tags/residential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>professional</title>
+      <link>https://cleaning-marketplace.com/tags/professional/</link>
+      <pubDate>Fri, 27 Oct 2023 11:33:18 -0400</pubDate>
+      
+      <guid>https://cleaning-marketplace.com/tags/professional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips</title>
+      <link>https://cleaning-marketplace.com/tags/tips/</link>
+      <pubDate>Fri, 27 Oct 2023 11:33:18 -0400</pubDate>
+      
+      <guid>https://cleaning-marketplace.com/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pets</title>
-      <link>/tags/pets/</link>
+      <link>https://cleaning-marketplace.com/tags/pets/</link>
+      <pubDate>Wed, 25 Oct 2023 09:44:40 -0400</pubDate>
+      
+      <guid>https://cleaning-marketplace.com/tags/pets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urine</title>
+      <link>https://cleaning-marketplace.com/tags/urine/</link>
+      <pubDate>Wed, 25 Oct 2023 09:44:40 -0400</pubDate>
+      
+      <guid>https://cleaning-marketplace.com/tags/urine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hair</title>
+      <link>https://cleaning-marketplace.com/tags/hair/</link>
       <pubDate>Mon, 23 Oct 2023 11:33:18 -0400</pubDate>
       
-      <guid>/tags/pets/</guid>
+      <guid>https://cleaning-marketplace.com/tags/hair/</guid>
       <description></description>
     </item>
     

@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Cleaning Market Place Coming Soon!</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Cleaning Market Place Coming Soon!</description>
+    <title>Categories on Cleaning Marketplace!</title>
+    <link>https://cleaning-marketplace.com/categories/</link>
+    <description>Recent content in Categories on Cleaning Marketplace!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Oct 2023 11:33:18 -0400</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 12:55:48 -0400</lastBuildDate><atom:link href="https://cleaning-marketplace.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://cleaning-marketplace.com/categories/home/</link>
+      <pubDate>Mon, 30 Oct 2023 12:55:48 -0400</pubDate>
+      
+      <guid>https://cleaning-marketplace.com/categories/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>professional tips</title>
+      <link>https://cleaning-marketplace.com/categories/professional-tips/</link>
+      <pubDate>Fri, 27 Oct 2023 11:33:18 -0400</pubDate>
+      
+      <guid>https://cleaning-marketplace.com/categories/professional-tips/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>pets</title>
-      <link>/categories/pets/</link>
-      <pubDate>Mon, 23 Oct 2023 11:33:18 -0400</pubDate>
+      <link>https://cleaning-marketplace.com/categories/pets/</link>
+      <pubDate>Wed, 25 Oct 2023 09:44:40 -0400</pubDate>
       
-      <guid>/categories/pets/</guid>
+      <guid>https://cleaning-marketplace.com/categories/pets/</guid>
       <description></description>
     </item>
     
