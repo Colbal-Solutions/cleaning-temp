@@ -31,20 +31,25 @@
         font-size: 16px;
         resize: none;
       }
-      
+      .input-textbox{
+        box-sizing: border-box;
+        border: 2px solid #aaa;
+        border-radius: 4px;
+        font-size: 16px;
+    }
 </style>
 <div class="contact-container">
 <div class="contact-col-1">
     <p class="contact-headline"> <h3>Get in touch</h3> </p>
 <form name="contact" method="POST" data-netlify="true">
     <p>
-      <label>Name: <input type="text" name="name" /></label>
+      <label>Name: <input type="text" name="name" class="input-textbox"/></label>
     </p>
     <p>
-      <label>Email: <input type="email" name="email" /></label>
+      <label>Email: <input type="email" name="email" class="input-textbox"/></label>
     </p>
     <p>
-        <label>Company: <input type="text"/></label>
+        <label>Company: <input type="text" class="input-textbox"/></label>
       </p>
     <p>
       <label>What can we help you with? </label><br><textarea name="message"></textarea>

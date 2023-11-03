@@ -28,19 +28,27 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: home
+      name: Home
+      url: /
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: cleaning-tips
+      name: Cleaning Tips
+      url: /tips/
       weight: 20
     - identifier: contact
       name: Contact Us
       url: /contact/
-      weight: 9
+      weight: 30
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 31
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 32
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 30
+      weight: 33
