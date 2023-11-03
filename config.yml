@@ -36,6 +36,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    - identifier: contact
+      name: Contact Us
+      url: /contact/
+      weight: 9
     - identifier: archives
       name: Archives
       url: /archives/
