@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-toc: false
+ShowToc: false
 ---
 
 {{< contact_us_form >}}
