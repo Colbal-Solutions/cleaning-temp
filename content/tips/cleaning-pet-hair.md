@@ -9,6 +9,7 @@ cover:
 tags: ["pets", "hair"]
 categories: ["pets"]
 ShowToc: true
+comments: true
 ---
 
 # Remove Pet Hair with Rubber Gloves
