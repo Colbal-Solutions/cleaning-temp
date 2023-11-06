@@ -2,7 +2,7 @@ baseURL: "https://cleaning-marketplace.com"
 languageCode: en-us
 title: Cleaning Marketplace!
 theme: hugo-PaperMod
-description: Cleaning marketplace is a one-stop shop for customers and professional cleaners to connect and find helpful cleaning tips, tricks, life hacks and solutions.
+description: Cleaning marketplace is revolutionizing the way customers and professional cleaners interact and benefit from each other's expertise. With this innovative platform, customers no longer have to search tirelessly for reliable and highly-skilled cleaners. They can discover a wide range of professional cleaners who are expertly trained in various cleaning services. Moreover, this marketplace offers a plethora of helpful cleaning tips, tricks, and life hacks that customers can utilize to maintain cleanliness and order in their homes or offices more efficiently. Whether it's advice on removing stubborn stains or tackling tricky spaces, this platform has got it all covered. By providing a seamless connection between customers and professional cleaners, and arming them with invaluable cleaning solutions, the cleaning marketplace is truly a game-changer in the industry.
 env: production
 
 params:
