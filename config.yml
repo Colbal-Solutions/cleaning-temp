@@ -32,10 +32,6 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: cleaning-tips
-      name: Cleaning Tips
-      url: /tips/
-      weight: 20
     - identifier: contact
       name: Contact Us
       url: /contact/
