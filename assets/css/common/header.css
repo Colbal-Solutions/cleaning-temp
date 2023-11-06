@@ -12,11 +12,9 @@
     display: block;
 }
 
-header {
-    padding-top: 10px;
-}
 
 .header-background {
+    padding-top: 15px;
     height: 100px;
     background-image: url("https://cleaning-marketplace.com/img/galaxy.webp");
     width: 100%;
