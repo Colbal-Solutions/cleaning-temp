@@ -7,7 +7,7 @@ cover:
     image: img/maid.webp
     alt: "Maids"
     caption: "Image by jcomp on Freepik"
-tags: ["Cleaning Services", "Maids"]
+tags: ["Cleaning Services", "Maids", "Residential"]
 categories: ["Cleaning Services"]
 ---
 
