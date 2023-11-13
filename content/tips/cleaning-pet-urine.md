@@ -20,15 +20,15 @@ This simple, three-step pet stain and urine odor remover uses natural, eco-frien
 This homemade stain-and-odor remover also works well for mild stains like spaghetti sauce — it cleans and deodorizes without leaving any residue. You can also store this premixed solution in a spray bottle to apply to pet pee stains and odor quickly. Before using, test this pet-stain-removing technique on an out-of-the-way spot to be sure it won’t discolor your carpet. Here’s everything you need to know about how to get dog pee out of a carpet or rug.
 
 ## What You’ll Need
-Paper towels or cloth towels (paper towels seem to work best)
+Paper towels or cloth towels, but paper towels seem to be more effective and are also disposable, which avoids cross-contamination.
 
 White vinegar
 
 Water
 
-Baking soda (and time for the baking soda to absorb any smell)
+Baking soda 
 
-Vacuum
+Vacuum cleaner
 
 ## Step 1: Blot, Don’t Rub the Stain
 Figure out where the urine-soaked area is and clean it up swiftly. Use a paper towel to blot the pet stain dry. Rubbing the stain with a towel only serves to spread the stain or urine more, so unless you plan on rearranging your furniture to cover that stain, pat the stain with a paper towel.

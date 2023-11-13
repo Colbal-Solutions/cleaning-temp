@@ -15,7 +15,7 @@ comments: true
 # Remove Pet Hair with Rubber Gloves
 ## Pet hair is a common problem with a simple solution
 
-As much as we love our four-legged friends, pet hair can accumulate quickly. Skip spending extra money on tools and special attachments and use this simple hack to clean up after your fur babies. Simply wear rubber household gloves and run them over the surface of your furniture. The rubber will cause the pet fur to gather into a ball that can be easily thrown away.
+As much as we love our four-legged friends, pet hair can be a problem in the houshold, especially for those of us with pet allergies. Skip spending extra money on tools and special attachments and use this simple hack to clean up after your kitties and doggos. Simply wear rubber household gloves and run them over the surface of your furniture, making sure to get in-between couch seats and cushions. The rubber will cause the pet fur to gather into a ball that can be easily thrown away.
 
 ## How to get dog hair out of a car
 1. Seat covers. 
