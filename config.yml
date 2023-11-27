@@ -6,6 +6,12 @@ description: Cleaning marketplace is revolutionizing the way customers and profe
 env: production
 
 params:
+  assets:
+    favicon: "static/favicon.ico"
+    favicon16x16: "android-chrome-192x192.png" 
+    favicon32x32: "static/android-chrome-512x512.png" 
+    apple_touch_icon: "static/apple-touch-icon.png" 
+
   homeInfoParams:
     Title: "Cleaning Marketplace"
     Content: Cleaning marketplace is revolutionizing the way customers and professional cleaners interact and benefit from each other's expertise. With this innovative platform, customers no longer have to search tirelessly for reliable and highly-skilled cleaners. They can discover a wide range of professional cleaners who are expertly trained in various cleaning services. Moreover, this marketplace offers a plethora of helpful cleaning tips, tricks, and life hacks that customers can utilize to maintain cleanliness and order in their homes or offices more efficiently. Whether it's advice on removing stubborn stains or tackling tricky spaces, this platform has got it all covered. By providing a seamless connection between customers and professional cleaners, and arming them with invaluable cleaning solutions, the cleaning marketplace is truly a game-changer in the industry.
@@ -13,7 +19,7 @@ params:
   privacy: https://cleaning-marketplace.com/privacy/
 
   label:
-    icon: "img/ai_logo.png"
+    icon: "img/ai_logo2.png"
 
   cover:
     linkFullImages: false
