@@ -13,7 +13,7 @@ params:
   privacy: https://cleaning-marketplace.com/privacy/
 
   label:
-    icon: "img/logo.svg"
+    icon: "img/ai_logo.png"
 
   cover:
     linkFullImages: false
