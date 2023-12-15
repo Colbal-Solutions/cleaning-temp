@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cleaning-marketplace.com/categories/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/tips/cleaning-services/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/tags/cleaning-services/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/categories/cleaning-services/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/tags/maids/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/tags/residential/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/tags/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/tips/</loc>
+    <lastmod>2023-11-06T10:59:10-05:00</lastmod>
+  </url><url>
     <loc>https://cleaning-marketplace.com/tags/bathroom/</loc>
     <lastmod>2023-10-30T12:55:48-04:00</lastmod>
   </url><url>
-    <loc>https://cleaning-marketplace.com/categories/</loc>
-    <lastmod>2023-10-30T12:55:48-04:00</lastmod>
-  </url><url>
-    <loc>https://cleaning-marketplace.com/posts/cleaning-bathrooms/</loc>
-    <lastmod>2023-10-30T12:55:48-04:00</lastmod>
-  </url><url>
-    <loc>https://cleaning-marketplace.com/</loc>
+    <loc>https://cleaning-marketplace.com/tips/cleaning-bathrooms/</loc>
     <lastmod>2023-10-30T12:55:48-04:00</lastmod>
   </url><url>
     <loc>https://cleaning-marketplace.com/categories/home/</loc>
@@ -20,16 +41,7 @@
     <loc>https://cleaning-marketplace.com/tags/home-cleaning/</loc>
     <lastmod>2023-10-30T12:55:48-04:00</lastmod>
   </url><url>
-    <loc>https://cleaning-marketplace.com/posts/</loc>
-    <lastmod>2023-10-30T12:55:48-04:00</lastmod>
-  </url><url>
-    <loc>https://cleaning-marketplace.com/tags/residential/</loc>
-    <lastmod>2023-10-30T12:55:48-04:00</lastmod>
-  </url><url>
-    <loc>https://cleaning-marketplace.com/tags/</loc>
-    <lastmod>2023-10-30T12:55:48-04:00</lastmod>
-  </url><url>
-    <loc>https://cleaning-marketplace.com/posts/cleaning-tips-for-professional-cleaners-in-a-residential-setting/</loc>
+    <loc>https://cleaning-marketplace.com/tips/cleaning-tips-for-professional-cleaners-in-a-residential-setting/</loc>
     <lastmod>2023-10-27T11:33:18-04:00</lastmod>
   </url><url>
     <loc>https://cleaning-marketplace.com/tags/professional/</loc>
@@ -41,7 +53,7 @@
     <loc>https://cleaning-marketplace.com/tags/tips/</loc>
     <lastmod>2023-10-27T11:33:18-04:00</lastmod>
   </url><url>
-    <loc>https://cleaning-marketplace.com/posts/cleaning-pet-urine/</loc>
+    <loc>https://cleaning-marketplace.com/tips/cleaning-pet-urine/</loc>
     <lastmod>2023-10-25T09:44:40-04:00</lastmod>
   </url><url>
     <loc>https://cleaning-marketplace.com/tags/pets/</loc>
@@ -53,7 +65,7 @@
     <loc>https://cleaning-marketplace.com/tags/urine/</loc>
     <lastmod>2023-10-25T09:44:40-04:00</lastmod>
   </url><url>
-    <loc>https://cleaning-marketplace.com/posts/cleaning-pet-hair/</loc>
+    <loc>https://cleaning-marketplace.com/tips/cleaning-pet-hair/</loc>
     <lastmod>2023-10-23T11:33:18-04:00</lastmod>
   </url><url>
     <loc>https://cleaning-marketplace.com/tags/hair/</loc>
@@ -62,6 +74,8 @@
     <loc>https://cleaning-marketplace.com/privacy/</loc>
   </url><url>
     <loc>https://cleaning-marketplace.com/archives/</loc>
+  </url><url>
+    <loc>https://cleaning-marketplace.com/new_index/</loc>
   </url><url>
     <loc>https://cleaning-marketplace.com/contact/</loc>
   </url>
